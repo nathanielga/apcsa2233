@@ -1,4 +1,4 @@
-public class Java1_MyFirstClass {
+public class Java1_MyFirstClass08182022 {
     // after you create your project and class
     // you have to create your main method to run commands
     // in order to use shortcuts you type main and press <tab>
