@@ -1,3 +1,5 @@
+package Lessons;
+
 public class Java3_Arithmaticoperators08232022 {
     // if you need to change the last name you can not do it directly
     // use refactor option when right-clicking on a class
