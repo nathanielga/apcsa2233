@@ -2,7 +2,7 @@ package apcsaProjects2233;
 
 import java.util.Scanner;
 
-public class calculator09022022
+public class projectCalculator09022022
 {
     public static void main(String[] args)
     {
