@@ -19,7 +19,7 @@ public class projectCombinedArrays
         {
             int a = 0;
             combined[i]=arr2[a];
-            a+
+            a++;
         }
         System.out.println(Arrays.toString(combined));
 
