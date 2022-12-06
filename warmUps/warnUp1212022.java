@@ -17,6 +17,8 @@ public class warnUp1212022
             }
     }
     public static void main(String[] args) {
-        System.out.println(ten10(7,3));
+        String text = "This is a String";
+        System.out.println(text.indexOf("String"));
+        System.out.println(text.compareTo("This is a String"));
     }
 }
