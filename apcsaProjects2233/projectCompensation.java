@@ -6,9 +6,7 @@ public class projectCompensation {
     public static void main(String[] args)
     {
         System.out.println( findTotalSalary("San Antonio",5,"Mathematics","Masters"));
-
     }
-
     public static int findTotalSalary(String location, int step, String subject, String degree)
     {
         int Salary = 0;
